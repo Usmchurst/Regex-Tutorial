@@ -29,4 +29,24 @@ In Javascript there are tow different ways that you could write create a regex o
 Anchors
 
 The ^ and the $ charachters are both whats known as anchors.
+The ^ tells the system what its reading is a string and it starts in the beginning of the regex. The last part or the end is the $ and it signifies the end point of said string of charachters. As you see the charachters in the Email Regex above the begining and the end.
+
+Bracket Expressions
+
+The bracket expression is anyting inside of the square brackets [] that you want to match. They are also known as bracket expressions, and positive charachter group because they outline the charachters we want to include. 
+For example, [abc] will look for a string that includes a or b or c, regardless of the length of the string. So all of the following examples would match: "aaa", "bin" "court", "abracadabra", and "bca".
+
+Quantifiers
+
+Now we are going to the last requirement for the regex. There is no minimum or maximun number of charachters the regex is lookgin for when it comes to this. Qantifiers match as many particular occurence of patterns as possible. This is why they say that quantifiers greedy. 
+These charachters include *, +, ?, {} these charachters matches patterns zero or more times. the character {n} matches the n the exact number of times. {n,} matches the pattern at least n number of times. Lastly {n,x} matches the pattern from a minimum of a number of times to a maximum of x number of times. They can be ,ade lazy by adding a ? symbol after, its meant to match a few occurences as possible. 
+
+# Grouping Constructors
+
+You can group a section of a regex by using parentheses (). Each of these section of expressions within parenthesis is known as a subexpression. Breaking them up is called grouping constructs. the following example is as follows below.  
+(abc):(xyz)
+The first subexpression is lookign for the part of the string that matches 'abc' exactly. The second part of the expression is lookign for the 'xyz'. in the middle you have the :. With the colon there and no brackets the have a different meaning. But with brackets the subexpressions are told to do otherwise.
+
+
+
 
