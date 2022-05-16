@@ -10,14 +10,14 @@ You are probably looking like "that the bleep is this" im sure you do as when I 
 
 # Table of Contents
 
-[Anchors] 
-Bracket Expressions
-Quantifiers
-Grouping constructs
-The OR Operator
-Character Escapes 
-Character classes
-Resources
+* Anchors 
+* Bracket Expressions
+* Quantifiers
+* Grouping constructs
+* The OR Operator
+* Character Escapes 
+* Character classes
+* Resources
 
 # Regex Components
 
