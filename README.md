@@ -11,13 +11,13 @@ You are probably looking like "that the bleep is this" im sure you do as when I 
 # Table of Contents
 
 * [Anchors](#Anchors)
-* Bracket Expressions
-* Quantifiers
-* Grouping constructs
-* The OR Operator
-* Character Escapes 
-* Character classes
-* Resources
+* [Bracket Expressions](#Bracket-Expressions)
+* [Quantifiers](#Quantifiers)
+* [Grouping constructs](#Grouping-construct)
+* [The OR Operator](The-OR-Operator)
+* [Character Escapes](#Character-Escapes) 
+* [Character classes](#Character-classes)
+* [Resources](#Resources)
 
 # Regex Components
 
@@ -66,10 +66,14 @@ For example .- Matches any character except the newline character (\n)
 
 Each one of the last three character classes can be changed to perform a inverse match by capitalizing the letter character. 
 
-# Resources 
+# Author
+
+I hope that you liked the tutorial and you found it easy to understand and straight foward. The link above can help if you need further information. Below is a link to the further documentation on Regex, in additon to my github profile.  
+ 
+Eric Hurst 
 
 https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
 
-I hope that you liked the tutorial and you found it easy to understand and straight foward. The link above can help if you need further information.
+# [Github](https://github.com/Usmchurst/Regex-Tutorial#Anchors)
 
 
