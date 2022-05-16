@@ -13,11 +13,11 @@ You are probably looking like "that the bleep is this" im sure you do as when I 
 * [Anchors](#Anchors)
 * [Bracket Expressions](#Bracket-Expressions)
 * [Quantifiers](#Quantifiers)
-* [Grouping constructs](#Grouping-construct)
-* [The OR Operator](The-OR-Operator)
+* [Grouping constructs](#Grouping-constructs)
+* [The OR Operator](#The-OR-Operator)
 * [Character Escapes](#Character-Escapes) 
 * [Character classes](#Character-classes)
-* [Resources](#Resources)
+
 
 # Regex Components
 
