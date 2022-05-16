@@ -10,7 +10,7 @@ You are probably looking like "that the bleep is this" im sure you do as when I 
 
 # Table of Contents
 
-Clicking [this link](Anchors) will scroll to Anchors section.
+[#Anchors]
 Bracket Expressions
 Quantifiers
 Grouping constructs
