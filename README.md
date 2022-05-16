@@ -10,7 +10,7 @@ You are probably looking like "that the bleep is this" im sure you do as when I 
 
 # Table of Contents
 
-Anchors
+Clicking [this link](Anchors) will scroll to Anchors section.
 Bracket Expressions
 Quantifiers
 Grouping constructs
@@ -26,7 +26,7 @@ in a regex its considered a litteral so the patterns must always be wrapped in s
 /^[a-z0-9_-]{3,16}$/
 In Javascript there are tow different ways that you could write create a regex object. First there is the example above and the second is the constuctor function that uses quotaion marks.
 
-Anchors
+# Anchors
 
 The ^ and the $ charachters are both whats known as anchors.
 The ^ tells the system what its reading is a string and it starts in the beginning of the regex. The last part or the end is the $ and it signifies the end point of said string of charachters. As you see the charachters in the Email Regex above the begining and the end.
